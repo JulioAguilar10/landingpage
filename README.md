@@ -1,4 +1,5 @@
 # landingpage
+Para este proyecto se utilizó la siguiente plantilla gratis: https://plantillashtmlgratis.com/en/home/.
 Landing page para tener tu negocio en linea 
 Como levantar la página en linux usando xampp.
 Descargar xampp para linux desde la siguiente página https://www.apachefriends.org/es/index.html.
